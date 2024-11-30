@@ -2,7 +2,7 @@
 
 * Студент: [Наталья Мананникова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2596683).
 * Наставник: [Ирина Малиновская](https://htmlacademy.ru/profile/irina-malinovskaya)
-
+* Сайт: [Мой проект Седона](https://manannikovanatalya.github.io/2596683-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
